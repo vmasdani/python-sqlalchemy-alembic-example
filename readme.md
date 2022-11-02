@@ -96,5 +96,5 @@ python3 main.py
 ```
 
 Ref: 
-Alembic tutorial: https://alembic.sqlalchemy.org/en/latest/tutorial.html
+Alembic tutorial: https://alembic.sqlalchemy.org/en/latest/tutorial.html  
 Alembic autogeneration guide: https://alembic.sqlalchemy.org/en/latest/autogenerate.html
