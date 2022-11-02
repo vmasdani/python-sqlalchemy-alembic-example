@@ -3,6 +3,7 @@
 ### Just run
 ```sh
 python3 -m pip install -r requirements.txt
+python3 -m alembic upgrade head
 python3 main.py exec
 ```
 
