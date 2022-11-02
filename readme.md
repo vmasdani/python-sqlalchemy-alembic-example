@@ -3,7 +3,7 @@
 ### Just run
 ```sh
 python3 -m pip install -r requirements.txt
-python3 app.py
+python3 main.py exec
 ```
 
 File named `db.sqlite3` will be created. Check contents with `sqlitebrowser` or something.
@@ -92,7 +92,7 @@ python3 -m alembic upgrade head
 
 8. Add running script (test add SnapshotRecord and Camera like in main.py) and just run
 ```sh
-python3 main.py
+python3 main.py exec
 ```
 
 Ref: 
